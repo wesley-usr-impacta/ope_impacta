@@ -1,2 +1,2 @@
 # ope_impacta
-Ofina Projeto/Empresa
+Ofcina Projeto/Empresa
